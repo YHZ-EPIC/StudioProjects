@@ -1,0 +1,148 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter_with_RIve",
+            "cwd": "Flutter_with_RIve",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Flutter_with_RIve (profile mode)",
+            "cwd": "Flutter_with_RIve",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Flutter_with_RIve (release mode)",
+            "cwd": "Flutter_with_RIve",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "myapp",
+            "cwd": "myapp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "myapp (profile mode)",
+            "cwd": "myapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "myapp (release mode)",
+            "cwd": "myapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "startup_namer",
+            "cwd": "startup_namer",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "startup_namer (profile mode)",
+            "cwd": "startup_namer",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "startup_namer (release mode)",
+            "cwd": "startup_namer",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_money_management_app",
+            "cwd": "FlutterUI\\flutter_money_management_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_money_management_app (profile mode)",
+            "cwd": "FlutterUI\\flutter_money_management_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_money_management_app (release mode)",
+            "cwd": "FlutterUI\\flutter_money_management_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "pinball",
+            "cwd": "Game\\pinball",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pinball (profile mode)",
+            "cwd": "Game\\pinball",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "pinball (release mode)",
+            "cwd": "Game\\pinball",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter-bacterial-growth",
+            "cwd": "Simulation\\flutter-bacterial-growth",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter-bacterial-growth (profile mode)",
+            "cwd": "Simulation\\flutter-bacterial-growth",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter-bacterial-growth (release mode)",
+            "cwd": "Simulation\\flutter-bacterial-growth",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_youtube_ui",
+            "cwd": "Youtube\\flutter_youtube_ui",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_youtube_ui (profile mode)",
+            "cwd": "Youtube\\flutter_youtube_ui",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_youtube_ui (release mode)",
+            "cwd": "Youtube\\flutter_youtube_ui",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
